@@ -1,0 +1,12 @@
+body{
+    background-image: url("../images/free-background-images-3.jpg");
+}
+h1{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 20px;
+    color: #c25124;
+    font-weight: bold;
+    padding: 25px;
+    background-color:whitesmoke;
+    border-block-end-width: 5px;
+}
